@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @YSN-B13<br><br>👀 Passionate about software engineering, AI, and machine learning<br><br>🌱 Currently learning machine learning, building Python projects, sharpening my programming skills, and exploring advanced mathematics<br><br>💞️ Open to collaborating on Python projects, AI applications, and machine learning experiments<br><br>📫 Reach me at: yagamiilight1986@gmail.com<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I’m an aspiring AI engineer who loves coding, weightlifting, and exploring the future of aerospace technology!
+👋 Hi, I’m @YSN-B13<br><br>👀 Passionate about software engineering, AI, and machine learning<br><br>🌱 Currently learning machine learning, building Python projects, sharpening my programming skills, and exploring advanced mathematics<br><br>💞️ Open to collaborating on Python projects, AI applications, and machine learning experiments<br><br>📫 Reach me at: yassinemoutawakkil2004@gmail.com<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I’m an aspiring AI engineer who loves coding, weightlifting, and exploring the future of aerospace technology!
 
 
 # 💻 Tech Stack:
