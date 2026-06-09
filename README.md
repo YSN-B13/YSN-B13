@@ -1,17 +1,17 @@
 # 💫 About Me:
 👋 Hi, I’m @YSN-B13
 
-👀 Interested in software engineering, artificial intelligence, machine learning, and AI agents
+👀 Interested in Artificial Intelligence, Machine Learning, AI Agents, Data Science, and Software Engineering
 
-🌱 Currently studying machine learning (supervised & unsupervised learning, neural networks), strengthening advanced Python, and building real-world AI projects while deepening my foundations in probability, statistics, and advanced mathematics
+🌱 Currently studying Unsupervised Learning and Reinforcement Learning, improving my Java programming skills, and building real-world AI projects while continuously expanding my knowledge in intelligent systems and emerging technologies
 
-💞️ Open to collaborating on Python projects, AI agents, machine learning systems, and applied data science projects
+💞️ Open to collaborating on Python projects, Java applications, AI agents, machine learning systems, and applied data science projects
 
 📫 Reach me at: yassinemoutawakkil2004@gmail.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Aspiring AI engineer passionate about building intelligent systems, continuous self-improvement, weightlifting, and future-focused technologies
+⚡ Fun fact: I love understanding how things work, breaking down complex systems into simple concepts, and exploring future-focused technologies and innovations
 
 
 # 💻 Tech Stack:
